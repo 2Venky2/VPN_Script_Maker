@@ -1,4 +1,4 @@
-# VPN_Script_Maker
+# VPN Script Maker
 This software creates batch script to connect with sonicwall vpn
 # VPN
 As you know for work from home jobs vpn is must and it is headache to connect vpn again and again if it gets disconnected due to network issue.
